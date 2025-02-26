@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working on project for my practicum
+Hi! My name is Afif Khaliq Ramadhan. I am a 4th-semester Informatics student at UPN Veteran Yogyakarta. I have a strong interest in technology, programming, and web development. I am always eager to learn new things and improve my skills in the field of informatics.
 
 
 ## 🌐 Socials:
